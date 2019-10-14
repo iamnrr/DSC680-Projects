@@ -1,4 +1,4 @@
-# Project Name: Customer Banking Behavior- Predictive Analytics.
+# Project Name: Predictive Maintenance - Model.
 
 ## Project Description: 
 
