@@ -31,7 +31,15 @@ Need to install the following modules:
 
 ## Execution
 
-Follow the below instructions to execute this project succesfully
+Follow the below instructions to execute this project succesfully:
+
+1) Download the data set from the given link and place it in the data directory.
+
+2) Change the file path to the 'Data' directory everywhere the files are referenced.
+
+3) Ensure all the required python modules are installed.
+
+4) Start executing the code.
 
 
 ## Authors
